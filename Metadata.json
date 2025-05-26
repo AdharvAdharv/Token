@@ -1,0 +1,41 @@
+{
+    "description": "Tech image with laptop", 
+    "external_url": "https://openseacreatures.io/3", 
+    "image": "https://plum-hilarious-jaguar-577.mypinata.cloud/ipfs/bafkreidivlvob6dbyixkozwjtvxuncqspimqrikwsbbxlg4clnfo5vwdn4", 
+    "name": "Tech Image",
+    "attributes": [ 
+        {
+            "trait_type": "Color", 
+            "value": "Red"
+          }, 
+          {
+            "trait_type": "Eyes", 
+            "value": "Big"
+          }, 
+          {
+            "trait_type": "Object", 
+            "value": "Laptop"
+          }
+     ]
+  },
+  {
+    "description": "Closing laptop with colorfull screen", 
+    "external_url": "https://openseacreatures.io/3", 
+    "image": "https://plum-hilarious-jaguar-577.mypinata.cloud/ipfs/bafkreiekfjhrhbbcan7exialgat4zkoz53pntbqikvrzrlsh7cd363z5yq", 
+    "name": "Laptop Image",
+    "attributes": [ 
+        {
+            "trait_type": "Color", 
+            "value": "white"
+          }, 
+          {
+            "trait_type": "keyboard", 
+            "value": "Black"
+          }, 
+          {
+            "trait_type": "Object", 
+            "value": "Laptop"
+          }
+     ]
+  }
+
